@@ -28,7 +28,7 @@
     "target-dir": "WeCMS/UserBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "dev"
+            "dev-master": "master"
         }
     }
 }
