@@ -4,6 +4,7 @@
     "description": "WeCMS User Bundle",
     "keywords": ["user management","wecms"],
     "homepage": "http://wecms.wepala.com",
+    "version" : "1.0.0",
     "license": "MIT",
     "authors": [
         {
